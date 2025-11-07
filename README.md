@@ -65,5 +65,5 @@ The script produces two plots:
 ---
 
 
- Developed with ❤️ using **NumPy, scikit-learn, and Matplotlib**.
+
 
